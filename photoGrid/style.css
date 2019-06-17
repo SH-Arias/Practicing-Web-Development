@@ -1,0 +1,54 @@
+body {
+    background-color: #dddddd;
+}
+
+.image {
+    height: 300px;
+    width: 30%;
+    float: left;
+    margin: 1.66% 1.66% 1.66% 1.66%;
+    background-size: cover;
+    background-position: center center;
+    -webkit-filter: grayscale(100%);
+    filter: grayscale(100%);
+}
+
+#image1 {
+    background-image: url(https://images.pexels.com/photos/2469440/pexels-photo-2469440.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=750&w=1260);
+}
+#image2 {
+    background-image: url(https://images.pexels.com/photos/2409681/pexels-photo-2409681.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=750&w=1260);
+}
+#image3 {
+    background-image: url(https://images.pexels.com/photos/2418886/pexels-photo-2418886.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=750&w=1260);
+}
+#image4 {
+    background-image: url(https://images.pexels.com/photos/569163/pexels-photo-569163.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=750&w=1260);
+}
+#image5 {
+    background-image: url(https://images.pexels.com/photos/344102/pexels-photo-344102.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=750&w=1260);
+}
+#image6 {
+    background-image: url(https://images.pexels.com/photos/260141/pexels-photo-260141.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=750&w=1260);
+}
+#image7 {
+    background-image: url(https://images.pexels.com/photos/1150994/pexels-photo-1150994.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=750&w=1260);
+}
+#image8 {
+    background-image: url(https://images.pexels.com/photos/541520/pexels-photo-541520.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=750&w=1260);
+}
+#image9 {
+    background-image: url(https://images.pexels.com/photos/813534/pexels-photo-813534.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=750&w=1260);
+}
+
+p {
+    font-family: Indie Flower;
+    margin-left: 1.66%;
+    margin-bottom: 1.7%;
+    font-size: 50px;
+    font-weight: 400;
+    text-transform: uppercase;
+    border-bottom: 3px solid #f1f1f1;
+    width: 30%;
+    padding: 0px;
+}
